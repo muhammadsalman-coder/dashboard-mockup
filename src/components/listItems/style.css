@@ -1,0 +1,12 @@
+.myNavLink {
+  display: flex;
+  color: inherit;
+  text-decoration: none;
+  width: 100%;
+}
+
+.myNavLink.active {
+  background-color: aqua;
+  border-radius: 5px;
+  padding: 5px;
+}
